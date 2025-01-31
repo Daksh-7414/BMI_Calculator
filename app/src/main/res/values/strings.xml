@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="mainactivity_text_string_1">Weight (.kg)</string>
+    <string name="mainactivity_text_string_2">Height (.ft)</string>
+    <string name="mainactivity_text_string_3">Height (.in)</string>
+    <string name="mainactivity_button_text_string">Calculate your BMI</string>
+    <string name="result_text_string_1">Your BMI is :</string>
+    <string name="result_text_string_2">Result</string>
+    <string name="result_string_1">Your BMI is </string>
+    <string name="result_string_2">, indicating that your weight is in the </string>
+    <string name="result_string_3"> category for adults of your height.</string>
+    <string name="result_string_4">Maintaining a healthy weight may reduce the risk of chronic diseases associated with overweight and obesity.</string>
+    <string name="resultactivity_button_text_string">Recalculate your BMI</string>
+</resources>
